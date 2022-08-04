@@ -1,0 +1,21 @@
+.showoff {
+  background-image: url(https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container h3 {
+  color: white;
+  align-items: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 58px;
+}
+
+.container p3 {
+  color: rgb(0, 171, 201);
+  align-items: center;
+  font-weight: lighter;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 48px;
+}

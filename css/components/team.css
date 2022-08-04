@@ -1,0 +1,25 @@
+.team img {
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.cards img {
+  height: 150px;
+  width: 150px;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.cards h4 {
+  margin-left: 90px;
+}
+
+.cards p {
+  margin-left: 35px;
+}
